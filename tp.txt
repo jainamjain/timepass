@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 qwertyuiop[;l,mnhgfdfghjhkjgkh bvcvgbcdvfbgh
+=======
+hi there
+jainam here
+git 
+raj
+>>>>>>> dfb74cbde3685c67525b9edf37f70986ebf7a008
